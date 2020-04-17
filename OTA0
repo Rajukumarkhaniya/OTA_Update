@@ -1,0 +1,6 @@
+--2020-04-16 11:02:34--  https://firebasestorage.googleapis.com/v0/b/ota-update-dd989.appspot.com/o/OTA?alt=media
+Resolving firebasestorage.googleapis.com (firebasestorage.googleapis.com)... 2404:6800:4009:805::200a, 172.217.160.170
+Connecting to firebasestorage.googleapis.com (firebasestorage.googleapis.com)|2404:6800:4009:805::200a|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-04-16 11:02:35 ERROR 403: Forbidden.
+
